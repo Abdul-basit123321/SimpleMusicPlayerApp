@@ -13,6 +13,7 @@
   ` - Tap on the list item to play music `
 
 # Requirements to build the app
+  ` Please follow master branch `
   ` Clone the project and install on the devices`
   
 # Architecture follow
